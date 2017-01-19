@@ -1,0 +1,40 @@
+body {
+    font-family: Helvetica;
+    background-color: ##FEFDFB;
+    margin: auto;
+    padding: inherit;
+}
+header{
+    color: black;
+    text-align: center;
+    font-size: 40px;
+}
+
+h1 {
+    color: #6F59D8;
+    text-align: center;
+    margin-top: 5px;
+}
+h2 {
+    color: #66BBF3;
+    text-align: center;
+    margin-top: 5px;
+}
+p {
+    text-indent: 3em;
+    line-height: 2.5 em;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+img {
+    max-width: 425px;
+    max-height: 210px;
+    display: block;
+    margin: 0 auto;
+}
+footer {
+    border-style: solid;
+    border-top: double border #ff0000;
+    text-align: center;
+    padding-left: 5px;
+}
